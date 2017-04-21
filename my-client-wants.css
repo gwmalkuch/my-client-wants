@@ -1,0 +1,39 @@
+header{
+    background-color: cornflowerblue;
+    color: gold;
+    padding:2px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border: solid 2px cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: Lucida;
+}
+
+footer {
+    text-align: center;
+    margin-top:25px;
+}
+
+.row{
+    padding:25px 0px;
+    border-bottom: solid 2px darkgrey;
+}
+
+.col-lg-6 {
+    text-align: center;
+}
+
+.col-sm-6 img {
+    display: block;
+    margin:auto;
+}
+
+
+
+
